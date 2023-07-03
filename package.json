@@ -1,0 +1,17 @@
+{
+  "name": "json-webstorage",
+  "version": "1.0.0",
+  "description": "JSON-Webstorage",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
